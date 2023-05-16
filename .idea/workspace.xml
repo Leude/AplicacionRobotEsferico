@@ -1,23 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="995b788b-d777-40ba-b3b7-3e00f56401fa" name="Changes" comment="" />
+    <list default="true" id="995b788b-d777-40ba-b3b7-3e00f56401fa" name="Changes" comment="Archivos generados">
+      <change afterPath="$PROJECT_DIR$/lib/PanamaHitek_Arduino-3.2.0-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/PanamaHitek_Arduino-3.2.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/PanamaHitek_Arduino-3.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jSerialComm-2.9.3-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jSerialComm-2.9.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jSerialComm-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jssc-2.9.4-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jssc-2.9.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jssc-2.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/native-lib-loader-2.3.6-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/native-lib-loader-2.3.6-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/native-lib-loader-2.3.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.30-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.30-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flecha-hacia-abajo-en-el-teclado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/flecha-hacia-arriba-de-la-tecla-del-teclado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tecla-de-variante-de-flecha-izquierda-en-el-teclado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tecla-del-teclado-apuntando-a-la-derecha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tecla-del-teclado-m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tecla-del-teclado-n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tecla-o-de-un-teclado-de-computadora.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/tecla-p-de-un-teclado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AplicacionRobotica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sincronizacion/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Posicion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ventanas/Error.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ventanas/Error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ventanas/VentanaPrincipal.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ventanas/VentanaPrincipal.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2PrLCH5OGxKBbH3J4wkH2YP7dmS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/riki_/IdeaProjects/AplicacionRobotEsferico",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -29,8 +85,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684210124796</updated>
-      <workItem from="1684210125855" duration="2000" />
+      <workItem from="1684210125855" duration="1371000" />
     </task>
+    <task id="LOCAL-00001" summary="Archivos generados">
+      <created>1684210186616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684210186616</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Archivos generados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Archivos generados" />
   </component>
 </project>
